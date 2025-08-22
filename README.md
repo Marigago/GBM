@@ -18,10 +18,7 @@ GBM+ es la plataforma mexicana de inversión desarrollada por Grupo Bursátil Me
 - [Principales Funcionalidades](#principales-funcionalidades)
 - [Herramientas de Trading](#herramientas-de-trading)
 - [Tipos de Trading Disponibles](#tipos-de-trading-disponibles)
-- [Procedimientos Comunes](#procedimientos-comunes)
-- [Requisitos y Seguridad](#requisitos-y-seguridad)
 - [Recursos Adicionales](#recursos-adicionales)
-- [Licencia](#licencia)
 
 </details>
 
@@ -141,21 +138,30 @@ Accede a webinars, cursos, tutoriales en video y artículos de GBM Academy, desd
 
 ## Herramientas de Trading
 
-### 🟢 Smart Cash  
-Fondo de liquidez diaria diseñado para ahorrar e invertir con disponibilidad prácticamente inmediata.<br>
-🔗 [GBM Academy: ¿Qué es Smart Cash?](https://academy.gbm.com/smart-cash/)
+### [🟢 Smart Cash](https://gbm.com/smart-cash/)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSReL_DVbDoCWZo9ck-ZMFa9aLMO_mLFfbQrA&s" alt="Smart Cash" width="180" align="right"/>
+Fondo de liquidez diaria diseñado para ahorrar e invertir con disponibilidad prácticamente inmediata.
 
-### 🟠 Wealth Management  
-Gestión automatizada y personalizada de portafolios con base en tus objetivos y perfil de riesgo.<br>
-🔗 [GBM+ Wealth Management](https://www.gbm.com/plus/wealth-management)
+---
 
-### 🔵 Trading y Trading Pro  
+### [🟠 Wealth Management](https://gbm.com/advisory/)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWb_gu6Aec08wvOxDvhLzXKgCWK5yorgtXGA&s](https://scontent-sjc3-1.xx.fbcdn.net/v/t1.6435-9/118627187_168370798202434_2813658567747869453_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=3a1ebe&_nc_ohc=JjaqAdKCjGkQ7kNvwH92ZaM&_nc_oc=AdknN51WrZaOVosqOZIdLSpM-jdMj0-z_ucLV1lgTOLU4sl0dBiDOrMHm7Yd6n6TRpM&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=wTaK43q_X-8VhMDBQuGKhQ&oh=00_AfV4eaTA82Rhr7CQ8cswVltD_NarHVTWugTxMEbiE4hj4A&oe=68D0359C" alt="Wealth Management" width="180" align="right"/>
+Gestión automatizada y personalizada de portafolios con base en tus objetivos y perfil de riesgo.
+
+---
+
+### [🔵 Trading y Trading Pro](http://gbm.com/trading/)
+<img src="https://gbm.com/wp-content/uploads/2025/01/Group-2859251-1.png" alt="Trading y Trading Pro" width="180" align="right"/>
 Funcionalidades para inversionistas activos:  
 - Órdenes de mercado, limitadas y stop-loss  
 - Venta en corto  
-- Información de precios en tiempo real y herramientas de análisis avanzadas  
-🔗 [GBM+ Trading](https://www.gbm.com/plus/trading-pro)
-🔗 [GBM Academy: Trading Activo](https://academy.gbm.com/trading-activo/)
+- Información de precios en tiempo real y herramientas de análisis avanzadas.
+
+<details>
+  <summary>Más información</summary>
+  🔗 [GBM+ Trading pro](https://gbm.com/trading/)  
+  🔗 [GBM Academy: Trading Activo]([https://academy.gbm.com/trading-activo/](https://gbm.com/media/the-academy/trading-global-que-es-y-como-empezar/))  
+</details> 
 
 ---
 
@@ -176,40 +182,6 @@ En GBM+, puedes programar aportaciones recurrentes para invertir y diversificar 
 
 ---
 
-## Procedimientos Comunes
-
-#### ✔️ Apertura de Cuenta
-1. Registro en [web o app](https://www.gbm.com/).
-2. Verificación de identidad (INE/pasaporte y comprobante de domicilio).
-3. Fondeo inicial mediante transferencia electrónica o SPEI.
-
-#### ✔️ Operaciones Básicas
-1. Buscar activo.
-2. Seleccionar tipo de orden (mercado, limitada, stop).
-3. Confirmar la operación.
-4. Monitoreo desde el portafolio.  
-![Demo orden](https://media.giphy.com/media/l1J3preURPiwjRPvG/giphy.gif)
-
-#### ✔️ Retiros
-- Solicitud desde la plataforma.
-- Procesamiento usual: 24–48 horas hábiles.
-
----
-
-## Requisitos y Seguridad
-
-- **Edad mínima:** 18 años.
-- **Documentos:** INE/pasaporte y comprobante de domicilio.
-- **Seguridad:**  
-  - Autenticación en dos pasos (2FA)  
-    ![2FA icono](https://cdn-icons-png.flaticon.com/512/565/565318.png)
-  - Cifrado de datos y protocolos de seguridad.
-  - Supervisión y regulación de [CNBV](https://www.gob.mx/cnbv).
-
-🔗 [GBM Academy: Tips de seguridad](https://academy.gbm.com/tips-de-seguridad/)
-
----
-
 ## Recursos Adicionales
 
 - [Sitio Oficial GBM+](https://gbm.com/plus)  
@@ -221,15 +193,4 @@ En GBM+, puedes programar aportaciones recurrentes para invertir y diversificar 
     - Teléfono: 800 427 3365  
     - Correo: soporte@gbm.com  
 
----
 
-## Licencia
-
-Repositorio informativo no oficial. Logotipos y marcas son propiedad de sus titulares.  
-La información es orientativa, no constituye asesoría financiera, jurídica ni vínculo comercial con GBM+.  
-Consulta siempre fuentes oficiales antes de invertir.
-
----
-
-¿Tienes sugerencias o contenido visual para agregar?  
-Haz un *pull request* o abre un *issue*.
