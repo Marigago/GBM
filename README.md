@@ -12,7 +12,7 @@ GBM+ es la plataforma mexicana de inversión desarrollada por Grupo Bursátil Me
 ---
 
 <details>
-<summary>📑 <b>Tabla de Contenidos</b></summary>
+<summary><h3>Tabla de Contenidos</h3> 📑 </summary>
 
 - [Descripción General](#descripción-general)
 - [Principales Funcionalidades](#principales-funcionalidades)
@@ -77,9 +77,47 @@ El <b>rendimiento</b> es la ganancia o pérdida generada por una inversión dura
 
 ## Principales Funcionalidades
 
-- **Apertura de cuenta digital**  
-  ![GIF apertura](https://media.giphy.com/media/MCfhrrNN1goH6/giphy.gif)
-- **Compra/venta de instrumentos:** acciones, ETFs, bonos y más, tanto en México como en el extranjero.
+<ul>
+  <li>
+    <details>
+      <summary>
+        <b>Apertura de cuenta digital</b>
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NzdW5mamNocGNiamxkdTRydGplNmF3YjU3aHJ2Z2Yxa3JpcDVtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12FBrUdUj7ZkuzyI8G/giphy.gif" alt="GIF apertura" width="50" align="right" />
+      </summary>
+      <ol>
+        <li><strong>Registro inicial:</strong> Ingresa a la <a href="https://gbm.com/plus">página oficial de GBM+</a> y haz clic en "Abrir una cuenta". Proporciona tu correo electrónico y crea una contraseña segura.</li>
+        <li><strong>Verificación de correo:</strong> Revisa tu bandeja de entrada y confirma tu correo electrónico mediante el enlace enviado por GBM+.</li>
+        <li><strong>Datos personales:</strong> Completa tu información personal, incluyendo:
+          <ul>
+            <li>Nombre completo</li>
+            <li>Fecha de nacimiento</li>
+            <li>CURP</li>
+            <li>RFC con homoclave</li>
+            <li>Domicilio completo</li>
+            <li>Número de teléfono móvil</li>
+          </ul>
+        </li>
+        <li><strong>Verificación de identidad:</strong> Sube una fotografía de tu identificación oficial vigente (INE, IFE o pasaporte) y una selfie para validar tu identidad.</li>
+        <li><strong>Información adicional:</strong> Proporciona detalles sobre tu nacionalidad, actividad económica y otros datos requeridos.</li>
+        <li><strong>Firma de contrato:</strong> Revisa y firma digitalmente el contrato proporcionado por GBM+.</li>
+        <li><strong>Depósito inicial:</strong> Realiza un depósito mínimo de $100 MXN para activar tu cuenta y comenzar a invertir.</li>
+      </ol>
+      <p>Ten en cuenta que estos pasos pueden variar. Para información actualizada, consulta la <a href="https://gbm.com/plus">página oficial de GBM+</a>.</p>
+    </details>
+  </li>
+  <li>
+    <details>
+      <summary>
+        <b>Compra/venta de instrumentos</b>
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVwb3hwNHJkN3lscTE4ZTkzYml2Zzg5bTRja2MwenJzOG9qbjVuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f4D12whPWcf0vZ6TxS/giphy.gif" alt="GIF compra/venta" width="50" align="right" />
+      </summary>
+      Acciones, ETFs, bonos y más, tanto en México como en el extranjero.<br>
+      Puedes operar en tiempo real y seleccionar entre orden de mercado, limitada, o stop.<br>
+      Consulta costos y horarios según el instrumento financiero.
+    </details>
+  </li>
+</ul>
+
 - **Trading Global:** opera fracciones de acciones estadounidenses desde $20 MXN.
 - **Gestión de portafolio:** visualización y análisis intuitivo con reportes de rendimiento.
 - **Educación financiera:** webinars y recursos de GBM Academy con acceso gratuito.
