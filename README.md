@@ -74,50 +74,68 @@ El <b>rendimiento</b> es la ganancia o pérdida generada por una inversión dura
 </details>
 
 ---
-
 ## Principales Funcionalidades
 
-<ul>
-  <li>
-    <details>
-      <summary>
-        <b>Apertura de cuenta digital</b>
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NzdW5mamNocGNiamxkdTRydGplNmF3YjU3aHJ2Z2Yxa3JpcDVtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12FBrUdUj7ZkuzyI8G/giphy.gif" alt="GIF apertura" width="50" align="right" />
-      </summary>
-      
-      1. **Registro inicial:** Ingresa a la [página oficial de GBM+](https://gbm.com/plus) y haz clic en "Abrir una cuenta". Proporciona tu correo electrónico y crea una contraseña segura.
-      2. **Verificación de correo:** Revisa tu bandeja de entrada y confirma tu correo electrónico mediante el enlace enviado por GBM+.
-      3. **Datos personales:** Completa tu información personal, incluyendo:  
-         - Nombre completo  
-         - Fecha de nacimiento  
-         - CURP  
-         - RFC con homoclave  
-         - Domicilio completo  
-         - Número de teléfono móvil
-      4. **Verificación de identidad:** Sube una fotografía de tu identificación oficial vigente (INE, IFE o pasaporte) y una selfie para validar tu identidad.
-      5. **Información adicional:** Proporciona detalles sobre tu nacionalidad, actividad económica y otros datos requeridos.
-      6. **Firma de contrato:** Revisa y firma digitalmente el contrato proporcionado por GBM+.
-      7. **Depósito inicial:** Realiza un depósito mínimo de $100 MXN para activar tu cuenta y comenzar a invertir.
+<details>
+  <summary>
+    <b>Apertura de cuenta digital</b>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NzdW5mamNocGNiamxkdTRydGplNmF3YjU3aHJ2Z2Yxa3JpcDVtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12FBrUdUj7ZkuzyI8G/giphy.gif" alt="GIF apertura" width="50" align="right" />
+  </summary>
+  
+1. **Registro inicial:** Ingresa a la [página oficial de GBM+](https://gbm.com/plus) y haz clic en "Abrir una cuenta". Proporciona tu correo electrónico y crea una contraseña segura.
+2. **Verificación de correo:** Revisa tu bandeja de entrada y confirma tu correo electrónico mediante el enlace enviado por GBM+.
+3. **Datos personales:** Completa tu información personal, incluyendo:  
+   - Nombre completo  
+   - Fecha de nacimiento  
+   - CURP  
+   - RFC con homoclave  
+   - Domicilio completo  
+   - Número de teléfono móvil
+4. **Verificación de identidad:** Sube una fotografía de tu identificación oficial vigente (INE, IFE o pasaporte) y una selfie para validar tu identidad.
+5. **Información adicional:** Proporciona detalles sobre tu nacionalidad, actividad económica y otros datos requeridos.
+6. **Firma de contrato:** Revisa y firma digitalmente el contrato proporcionado por GBM+.
+7. **Depósito inicial:** Realiza un depósito mínimo de $100 MXN para activar tu cuenta y comenzar a invertir.
 
-      Ten en cuenta que estos pasos pueden variar. Para información actualizada, consulta la [página oficial de GBM+](https://gbm.com/plus).
-    </details>
-  </li>
-  <li>
-    <details>
-      <summary>
-        <b>Compra/venta de instrumentos</b>
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVwb3hwNHJkN3lscTE4ZTkzYml2Zzg5bTRja2MwenJzOG9qbjVuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f4D12whPWcf0vZ6TxS/giphy.gif" alt="GIF compra/venta" width="50" align="right" />
-      </summary>
-      Acciones, ETFs, bonos y más, tanto en México como en el extranjero.  
-      Puedes operar en tiempo real y seleccionar entre orden de mercado, limitada, o stop.  
-      Consulta costos y horarios según el instrumento financiero.
-    </details>
-  </li>
-</ul>
+Ten en cuenta que estos pasos pueden variar. Para información actualizada, consulta la [página oficial de GBM+](https://gbm.com/plus).
 
-- **Trading Global:** opera fracciones de acciones estadounidenses desde $20 MXN.
-- **Gestión de portafolio:** visualización y análisis intuitivo con reportes de rendimiento.
-- **Educación financiera:** webinars y recursos de GBM Academy con acceso gratuito.
+</details>
+
+<details>
+  <summary>
+    <b>Compra/venta de instrumentos</b>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVwb3hwNHJkN3lscTE4ZTkzYml2Zzg5bTRja2MwenJzOG9qbjVuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f4D12whPWcf0vZ6TxS/giphy.gif" alt="GIF compra/venta" width="50" align="right" />
+  </summary>
+Acciones, ETFs, bonos y más, tanto en México como en el extranjero.  
+Puedes operar en tiempo real y seleccionar entre orden de mercado, limitada, o stop.  
+Consulta costos y horarios según el instrumento financiero.
+</details>
+
+<details>
+  <summary>
+    <b>Trading Global</b>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhseDc1Zzh2aWc1NzJ5ZWp2aHc4ZG9oY2U1MXo0MXk1enFlaG52cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OuoDww27HP6hzS7m1Q/giphy.gif" alt="GIF trading global" width="50" align="right" />
+  </summary>
+Opera fracciones de acciones estadounidenses desde $20 MXN a través del mercado internacional disponible en GBM+.  
+Amplía tus opciones de inversión operando en sectores y empresas globales sin requerir montos elevados.  
+Verifica disponibilidad y horarios del Sistema Internacional de Cotizaciones (SIC).
+</details>
+
+<details>
+  <summary>
+    <b>Gestión de portafolio</b>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZyejhub2h3ODJ0dmxzNjIzZjdldDVkazF0ZTVobXBhMWZpdzY4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/S8TzUKzRPjepzJx37U/giphy.gif" alt="GIF portafolio" width="50" align="right" />
+  </summary>
+Consulta el rendimiento y composición de tus inversiones en un dashboard personalizado e intuitivo, visualizando históricos, rendimiento por activo y comparativos.  
+Tus decisiones se respaldan en reportes gráficos y alertas automáticas para optimizar tu estrategia financiera.
+</details>
+
+<details>
+  <summary>
+    <b>Educación financiera</b>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmE4YndtejB4ZTdjZmhxdThrNzQzdmliYnhrc3R5enZkdGtsOXpneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/InU43eRXuLczSZeTbP/giphy.gif" alt="GIF educación financiera" width="50" align="right" />
+  </summary>
+Accede a webinars, cursos, tutoriales en video y artículos de GBM Academy, desde conceptos básicos hasta estrategias avanzadas, para que inviertas de manera informada y segura desde tu primera operación.
+</details>
 
 ---
 
