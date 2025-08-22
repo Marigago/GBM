@@ -100,7 +100,6 @@ El <b>rendimiento</b> es la ganancia o pérdida generada por una inversión dura
       7. **Depósito inicial:** Realiza un depósito mínimo de $100 MXN para activar tu cuenta y comenzar a invertir.
 
       Ten en cuenta que estos pasos pueden variar. Para información actualizada, consulta la [página oficial de GBM+](https://gbm.com/plus).
-
     </details>
   </li>
   <li>
