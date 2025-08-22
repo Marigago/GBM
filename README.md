@@ -169,15 +169,15 @@ Funcionalidades para inversionistas activos:
 
 | Estrategia                | Descripción breve | Riesgo   | Plazo   | Más Información |
 |---------------------------|-------------------|----------|---------|-----------------|
-| Buy and Hold              | Mantener activos para crecimiento a largo plazo   | Bajo/Medio | Largo  | [GBM Academy](https://academy.gbm.com/estrategias-de-inversion/)
-| Trading Activo            | Opera con frecuencia buscando aprovechar cambios de precio   | Alto      | Corto/Medio | [GBM Academy](https://academy.gbm.com/trading-activo/)
-| DCA (Aportaciones periódicas)     | Invertir cantidades regulares automáticamente  | Medio     | Largo  | [GBM Academy: Inversión automática](https://academy.gbm.com/invertir-en-automatico/)
-| Swing Trading             | Aprovechar fluctuaciones de precio en el corto y mediano plazo | Alto | Corto/Medio | [GBM Academy: Trading Activo](https://academy.gbm.com/trading-activo/)
+| Buy and Hold              | Mantener activos para crecimiento a largo plazo   | Bajo/Medio | Largo  | [GBM Academy Investor](https://academy.gbm.com/estrategias-de-inversion/](https://gbm.com/media/the-academy/estrategia-de-inversion/)
+| Trading Activo            | Opera con frecuencia buscando aprovechar cambios de precio   | Alto      | Corto/Medio | [GBM Ventures](https://gbm.com/ventures/)
+| DCA (Aportaciones periódicas)     | Invertir cantidades regulares automáticamente  | Medio     | Largo  | [GBM Academy: Inversiones](https://gbm.com/soluciones-de-inversion/)
+| Swing Trading             | Aprovechar fluctuaciones de precio en el corto y mediano plazo | Alto | Corto/Medio | [GBM Academy: Trading](https://gbm.com/media/the-academy/trading-que-es-y-como-funciona/)
 
 <details>
 <summary>⚙️ Estrategias automatizadas</summary>
 En GBM+, puedes programar aportaciones recurrentes para invertir y diversificar automáticamente tu portafolio incluso mientras duermes.<br>
-🔗 [GBM Academy: Estrategias Automatizadas](https://academy.gbm.com/estrategias-de-inversion/)
+🔗 [GBM Academy: Estrategias Automatizadas](https://academy.gbm.com/estrategias-de-inversion/](https://gbm.com/media/the-idea/artificial-intelligence-sma-gbm/)
 </details>
 
 ---
@@ -185,12 +185,15 @@ En GBM+, puedes programar aportaciones recurrentes para invertir y diversificar 
 ## Recursos Adicionales
 
 - [Sitio Oficial GBM+](https://gbm.com/plus)  
-- [Centro de Ayuda GBM+](https://gbm.com/plus/ayuda)
+- [Centro de Ayuda GBM+](https://gbm.com/contacto/)
 - [GBM Academy – Educación financiera gratuita](https://academy.gbm.com/)  
-- [AMIB – ETFs y Mercado de Valores](https://www.amib.com.mx/index.php/boletines/498-que-son-los-etf)  
-- [CNBV – Fondos de Inversión](https://www.gob.mx/cnbv/articulos/fondos-de-inversion)  
-- **Soporte:**  
-    - Teléfono: 800 427 3365  
-    - Correo: soporte@gbm.com  
+- [AMIB – ETFs y Mercado de Valores](https://principal.com.mx/blog/inversiones/que-es-y-como-invertir-en-un-etf)  
+- [CNBV – Fondos de Inversión](https://www.gob.mx/cnbv/acciones-y-programas/sector-fondos-de-inversion)
+
+
+- **Soporte:**
+
+    - [WhatsApp](https://api.whatsapp.com/send/?phone=5215526905840&text&type=phone_number&app_absent=0)
+    - Correo: contacto@gbm.com 
 
 
