@@ -169,15 +169,15 @@ Funcionalidades para inversionistas activos:
 
 | Estrategia                | Descripción breve | Riesgo   | Plazo   | Más Información |
 |---------------------------|-------------------|----------|---------|-----------------|
-| Buy and Hold              | Mantener activos para crecimiento a largo plazo   | Bajo/Medio | Largo  | [GBM Academy Investor](https://academy.gbm.com/estrategias-de-inversion/](https://gbm.com/media/the-academy/estrategia-de-inversion/)
+| Buy and Hold              | Mantener activos para crecimiento a largo plazo   | Bajo/Medio | Largo  | [GBM Academy Investor](https://gbm.com/media/the-academy/estrategia-de-inversion/)
 | Trading Activo            | Opera con frecuencia buscando aprovechar cambios de precio   | Alto      | Corto/Medio | [GBM Ventures](https://gbm.com/ventures/)
 | DCA (Aportaciones periódicas)     | Invertir cantidades regulares automáticamente  | Medio     | Largo  | [GBM Academy: Inversiones](https://gbm.com/soluciones-de-inversion/)
 | Swing Trading             | Aprovechar fluctuaciones de precio en el corto y mediano plazo | Alto | Corto/Medio | [GBM Academy: Trading](https://gbm.com/media/the-academy/trading-que-es-y-como-funciona/)
 
 <details>
-<summary>⚙️ Estrategias automatizadas</summary>
-En GBM+, puedes programar aportaciones recurrentes para invertir y diversificar automáticamente tu portafolio incluso mientras duermes.<br>
-🔗 [GBM Academy: Estrategias Automatizadas](https://academy.gbm.com/estrategias-de-inversion/](https://gbm.com/media/the-idea/artificial-intelligence-sma-gbm/)
+  <summary>⚙️ Estrategias automatizadas</summary>
+  En GBM+, puedes programar aportaciones recurrentes para invertir y diversificar automáticamente tu portafolio incluso mientras duermes.<br>
+  - [GBM Academy: Estrategias Automatizadas](https://academy.gbm.com/estrategias-de-inversion/)
 </details>
 
 ---
