@@ -6,9 +6,6 @@
   <img src="https://s3-symbol-logo.tradingview.com/corporativo-gbm-sab-de-cv--600.png" alt="Logo GBM+" width="100"/>
 </a>
 
-</div>
-<!-- Sugerencia: Sustituye este link por el logotipo oficial si tienes el archivo. -->
-
 GBM+ es la plataforma mexicana de inversión desarrollada por Grupo Bursátil Mexicano (GBM), permitiéndote acceder y operar con acciones, ETFs, bonos y más. Su objetivo es democratizar las oportunidades financieras en México, combinando educación, tecnología y servicio profesional.
 
 ---
