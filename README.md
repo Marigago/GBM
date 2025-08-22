@@ -10,15 +10,25 @@ GBM+ es la plataforma mexicana de inversión desarrollada por Grupo Bursátil Me
 </div>
 
 ---
-
 <details>
-<summary><h3>Tabla de Contenidos</h3> 📑 </summary>
+<summary><h3>Tabla de Contenidos 📑</h3></summary>
 
-- [Descripción General](#descripción-general)
-- [Principales Funcionalidades](#principales-funcionalidades)
-- [Herramientas de Trading](#herramientas-de-trading)
-- [Tipos de Trading Disponibles](#tipos-de-trading-disponibles)
-- [Recursos Adicionales](#recursos-adicionales)
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <ul>
+        <li><a href="#descripción-general">Descripción General</a></li>
+        <li><a href="#principales-funcionalidades">Principales Funcionalidades</a></li>
+        <li><a href="#herramientas-de-trading">Herramientas de Trading</a></li>
+        <li><a href="#tipos-de-trading-disponibles">Tipos de Trading Disponibles</a></li>
+        <li><a href="#recursos-adicionales">Recursos Adicionales</a></li>
+      </ul>
+    </td>
+    <td valign="top" align="right">
+      <img src="https://cdn.forbes.com.mx/2020/10/GBM.jpg" alt="Tabla de contenidos trading" width="600"/>
+    </td>
+  </tr>
+</table>
 
 </details>
 
@@ -169,15 +179,16 @@ Funcionalidades para inversionistas activos:
 
 | Estrategia                | Descripción breve | Riesgo   | Plazo   | Más Información |
 |---------------------------|-------------------|----------|---------|-----------------|
-| Buy and Hold              | Mantener activos para crecimiento a largo plazo   | Bajo/Medio | Largo  | [GBM Academy Investor](https://gbm.com/media/the-academy/estrategia-de-inversion/)
-| Trading Activo            | Opera con frecuencia buscando aprovechar cambios de precio   | Alto      | Corto/Medio | [GBM Ventures](https://gbm.com/ventures/)
-| DCA (Aportaciones periódicas)     | Invertir cantidades regulares automáticamente  | Medio     | Largo  | [GBM Academy: Inversiones](https://gbm.com/soluciones-de-inversion/)
-| Swing Trading             | Aprovechar fluctuaciones de precio en el corto y mediano plazo | Alto | Corto/Medio | [GBM Academy: Trading](https://gbm.com/media/the-academy/trading-que-es-y-como-funciona/)
+| Buy and Hold              | Mantener activos para crecimiento a largo plazo   | Bajo/Medio | Largo  | [GBM Academy Investor](https://gbm.com/media/the-academy/estrategia-de-inversion/) |
+| Trading Activo            | Opera con frecuencia buscando aprovechar cambios de precio   | Alto      | Corto/Medio | [GBM Ventures](https://gbm.com/ventures/) |
+| DCA (Aportaciones periódicas)     | Invertir cantidades regulares automáticamente  | Medio     | Largo  | [GBM Academy: Inversiones](https://gbm.com/soluciones-de-inversion/) |
+| Swing Trading             | Aprovechar fluctuaciones de precio en el corto y mediano plazo | Alto | Corto/Medio | [GBM Academy: Trading](https://gbm.com/media/the-academy/trading-que-es-y-como-funciona/) |
 
 <details>
   <summary>⚙️ Estrategias automatizadas</summary>
-  En GBM+, puedes programar aportaciones recurrentes para invertir y diversificar automáticamente tu portafolio incluso mientras duermes.<br>
-  - [GBM Academy: Estrategias Automatizadas](https://academy.gbm.com/estrategias-de-inversion/)
+  En GBM+, puedes programar aportaciones recurrentes para invertir y diversificar automáticamente tu portafolio incluso mientras duermes.
+
+  🔗 [GBM Academy: Estrategias Automatizadas](https://gbm.com/soluciones-de-inversion/)
 </details>
 
 ---
