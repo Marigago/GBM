@@ -31,51 +31,46 @@ GBM+ es la plataforma mexicana de inversión desarrollada por Grupo Bursátil Me
 
 <details>
 <summary>💡 <b>¿Qué es Trading?</b></summary>
+El <b>trading</b> es la compraventa activa de instrumentos financieros como acciones y bonos, con el objetivo de aprovechar las fluctuaciones del mercado para obtener ganancias.
 
-El <b>trading</b> es la compraventa activa de instrumentos financieros como acciones y bonos, con el objetivo de aprovechar las fluctuaciones del mercado para obtener ganancias.<br>
-<b>Más información:</b>  
-- [CNBV - Instrumentos Financieros](https://www.gob.mx/cnbv/articulos/conoce-los-instrumentos-financieros-y-los-tipos-de-intermediarios?s=)
-- [GBM Academy: ¿Qué es el Trading?](https://academy.gbm.com/que-es-trading/)
-
+**Más información:**  
+- [¿Qué es Trading? — BBVA](https://www.bbva.com/es/salud-financiera/que-es-trading-que-hace-falta-para-operar/)
+- [¿Qué es el Trading? — GBM Academy](https://gbm.com/media/the-academy/trading-que-es-y-como-funciona/)
 </details>
 
 <details>
 <summary>🏢 <b>¿Qué es una acción?</b></summary>
+Las <b>acciones</b> representan una fracción de la propiedad de una empresa. Al adquirirlas, tienes derecho a participar en los beneficios y, en algunos casos, en la toma de decisiones.
 
-Las <b>acciones</b> representan una fracción de la propiedad de una empresa. Al adquirirlas, tienes derecho a participar en los beneficios y, en algunos casos, en la toma de decisiones.<br>
-<b>Más información:</b>
-- [Bolsa Mexicana de Valores: Conceptos Básicos](https://www.bmv.com.mx/es/emisoras/conceptos-basicos)
-- [GBM Academy: ¿Qué son las acciones?](https://academy.gbm.com/que-son-las-acciones/)
-
+**Más información:**  
+- [Conceptos Básicos — Bolsa Mexicana de Valores](https://www.bbva.com/es/salud-financiera/que-es-la-bolsa-de-valores-una-explicacion-simple/)
+- [¿Qué son las acciones? — GBM Academy](https://gbm.com/media/the-academy/como-invertir-en-la-bolsa-de-valores/)
 </details>
 
 <details>
 <summary>📊 <b>¿Qué es un ETF?</b></summary>
+Un <b>ETF</b> (Fondo Cotizado en Bolsa) es un fondo de inversión que se comercializa como una acción y replica el comportamiento de un índice o sector.
 
-Un <b>ETF</b> (Fondo Cotizado en Bolsa) es un fondo de inversión que se comercializa como una acción y replica el comportamiento de un índice o sector.<br>
-<b>Más información:</b>
-- [AMIB: ¿Qué son los ETFs?](https://www.amib.com.mx/index.php/boletines/498-que-son-los-etf)
-- [GBM Academy: ETFs](https://academy.gbm.com/que-es-un-etf/)
-
+**Más información:**  
+- [¿Qué son los ETFs? — Principal](https://principal.com.mx/blog/inversiones/que-es-y-como-invertir-en-un-etf)
+- [ETF Master Guide — GBM Academy](https://gbm.com/media/the-academy/etfs-master-guide-la-guia-del-inversionista-inteligente/)
 </details>
 
 <details>
 <summary>💼 <b>¿Qué son los fondos de inversión?</b></summary>
+Los <b>fondos de inversión</b> reúnen el dinero de varios inversionistas, permitiendo acceder a portafolios diversificados administrados por expertos.
 
-Los <b>fondos de inversión</b> reúnen el dinero de varios inversionistas, permitiendo acceder a portafolios diversificados administrados por expertos.<br>
-<b>Más información:</b>
-- [CNBV - Fondos de Inversión](https://www.gob.mx/cnbv/articulos/fondos-de-inversion)
-- [GBM Academy: Fondos de Inversión](https://academy.gbm.com/que-son-los-fondos-de-inversion/)
-
+**Más información:**  
+- [Fondos de Inversión — CNBV](https://www.gob.mx/cnbv/articulos/fondos-de-inversion)
+- [Fondos de Inversión — GBM Academy](https://gbm.com/media/the-academy/fondos-de-inversion-tu-dinero-crece-con-proposito/)
 </details>
 
 <details>
 <summary>📈 <b>¿Qué es rendimiento?</b></summary>
+El <b>rendimiento</b> es la ganancia o pérdida generada por una inversión durante un periodo. Normalmente se expresa como porcentaje en relación al capital inicial.
 
-El <b>rendimiento</b> es la ganancia o pérdida generada por una inversión durante un periodo. Normalmente se expresa como porcentaje en relación al capital inicial.<br>
-<b>Más información:</b>
-- [GBM Academy: ¿Qué es el rendimiento de una inversión?](https://academy.gbm.com/que-es-el-rendimiento-de-una-inversion/)
-
+**Más información:**  
+- [¿Qué es el rendimiento de una inversión? — GBM Academy](https://gbm.com/media/the-academy/rentabilidad-en-inversiones/)
 </details>
 
 ---
